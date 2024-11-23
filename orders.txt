@@ -1,0 +1,72 @@
+Order Number: 1
+Client Name: Kam Buckridge
+Dishes:
+Dish: California Maki, Price: 11.39
+Dish: Bunny Chow, Price: 33.16
+Dish: Tacos, Price: 37.13
+Dish: Caesar Salad, Price: 24.78
+
+Order Number: 2
+Client Name: Linnie O'Keefe I
+Dishes:
+Dish: Pierogi, Price: 42.76
+Dish: Chicken Parm, Price: 9.19
+
+Order Number: 3
+Client Name: Kirk Vandervort
+Dishes:
+Dish: Pork Belly Buns, Price: 27.8
+Dish: Chilli con Carne, Price: 30.34
+Dish: Souvlaki, Price: 29.3
+
+Order Number: 4
+Client Name: Cheryll Cronin PhD
+Dishes:
+Dish: Bruschette with Tomato, Price: 36.38
+Dish: Stinky Tofu, Price: 41.32
+Dish: Tiramisù, Price: 24.55
+Dish: Philadelphia Maki, Price: 24.85
+
+Order Number: 5
+Client Name: Meggan Schaden
+Dishes:
+Dish: Cauliflower Penne, Price: 42.03
+Dish: Teriyaki Chicken Donburi, Price: 26.07
+
+Order Number: 6
+Client Name: Margo Schulist
+Dishes:
+Dish: Chicken Milanese, Price: 33.81
+Dish: Tuna Sashimi, Price: 13.27
+Dish: Poutine, Price: 42.74
+Dish: French Toast, Price: 15.82
+
+Order Number: 7
+Client Name: Daniel Wilderman
+Dishes:
+Dish: Pho, Price: 34.73
+Dish: Pizza, Price: 19.32
+
+Order Number: 8
+Client Name: Lamar Paucek DDS
+Dishes:
+Dish: Pho, Price: 34.62
+Dish: Bruschette with Tomato, Price: 36.63
+Dish: Scotch Eggs, Price: 25.9
+Dish: Som Tam, Price: 13.66
+
+Order Number: 9
+Client Name: Lavern Smith
+Dishes:
+Dish: Teriyaki Chicken Donburi, Price: 31.8
+Dish: Poke, Price: 31.71
+Dish: Pierogi, Price: 21.94
+
+Order Number: 10
+Client Name: Elmo McKenzie
+Dishes:
+Dish: Ebiten maki, Price: 25.93
+Dish: Bunny Chow, Price: 44.73
+Dish: Pork Sausage Roll, Price: 7.22
+Dish: Caesar Salad, Price: 29.28
+
